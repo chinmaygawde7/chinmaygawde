@@ -1,0 +1,22 @@
+{
+  "name": "chinmaygawde",
+  "version": "1.0.0",
+  "description": "My personal blog",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chinmaygawde7/chinmaygawde.git"
+  },
+  "author": "Chinmay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chinmaygawde7/chinmaygawde/issues"
+  },
+  "homepage": "https://github.com/chinmaygawde7/chinmaygawde#readme"
+}
